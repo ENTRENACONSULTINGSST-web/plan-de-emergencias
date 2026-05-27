@@ -1,0 +1,6 @@
+{
+  "name": "Calculador de Vulnerabilidad por Rombos",
+  "description": "Cálculo técnico automatizado del Diamante de Riesgo y vulnerabilidad integrada con módulos normativos colombianos (PESV, Psicosocial, Alturas, Baterías de Litio y SGA Químicos).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
